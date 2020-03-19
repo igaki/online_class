@@ -65,6 +65,10 @@
 
 
 ## 事例
+### 立命館大学
+- http://www.ritsumei.ac.jp/news/detail/?id=1679
+> 4月5日(日)から5月2日(土)は感染拡大防止期間とし、授業は教室では行わず、WEBを活用した形態に切り替えて行います。
+
 ### 東京大学
 - https://www.u-tokyo.ac.jp/ja/about/president/COVID-19-message.html
 > 対面での講義は最小限とし、オンライン化を奨励し推進する
