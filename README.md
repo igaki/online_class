@@ -50,6 +50,10 @@
 - Google Classroomでの課題の作成，提出管理
 - ストリーム(Classroom内の機能)を利用した掲示板
 
+## 参考になる資料
+- これからZOOMでオンライン授業をしようと思っている教員の方
+  - https://qingyuan.sakura.ne.jp/wp/?p=4121
+
 ## 法令等
 - https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/043/siryo/1409011.htm
 - https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/043/siryo/__icsFiles/afieldfile/2018/09/10/1409011_6.pdf
